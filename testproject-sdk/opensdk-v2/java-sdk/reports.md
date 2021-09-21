@@ -4,7 +4,7 @@ The Test ProjectSDK tightly integrates with the TestProject application. Test th
 
 ## Naming Projects
 
-When running tests with the SDK, TestProject will automaticaly create a project for you so that it can use if for reporting.  This project needs to have a name. You can explicitly set that name wiht the constructor if you want.
+When running tests with the SDK, TestProject will automaticaly create a project for you so that it can use if for reporting.  This project needs to have a name. You can explicitly set that name with the constructor if you want.
 
 ### Explicit Names
 
